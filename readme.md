@@ -10,5 +10,3 @@ There is a predefined devcontainer.json with Python 3.11 and Jupyter extensions.
 ### Pyenv
 
 Using pyenv, you can install Python 3.11 version and then subsequent dependencies.
-
-Tensorflow replay buffer wants only Linux...
